@@ -2,18 +2,10 @@
   margin-top: 20px;
 }
 
-.inp {
+.indent {
   margin-top: 10px;
 }
 
-.in {
+#age {
   width: 65px;
-}
-
-#accept {
-  margin-top: 13px;
-}
-
-#range {
-  margin-top: 12px;
 }
